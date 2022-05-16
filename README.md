@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 MY Self Guddu kumar
 
 <!--
 **guddulawaniya/guddulawaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Android studio
 - 🌱 I’m currently learning B.Tech CSE (AI & ML)
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
