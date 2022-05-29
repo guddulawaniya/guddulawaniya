@@ -1,6 +1,6 @@
 ### Hi,I'm Guddu Kumar 👋
 
-I'm B.tech Student in  Sanskriti University Mathura
+I'm pursing B.tech in  Sanskriti University Mathura
 
 - 🔭 I’m currently working on Android studio
 - 🌱 I’m currently learning B.Tech CSE (AI & ML)
