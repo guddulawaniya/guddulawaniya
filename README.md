@@ -7,7 +7,7 @@ Recently I have Complete My B.Tech from  Sanskriti University Mathura (India)
 - 🤔 I’m looking for help with so connect linkedin
 - 📫 How to reach me: Linkedin
 - Currently have working as an Flutter Developer
-- I have 2+ year of Exprience as an Android developer
+- I have 2+ year of Exprience as an Software Engineer - Android developer
 
 Certified from Sololearn.
 
